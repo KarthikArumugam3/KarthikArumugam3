@@ -1,4 +1,4 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)]
+![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 <h1 align="center">Hi 👋, I'm Karthik Arumugam</h1>
 <h3 align="center">A Data Scientist and poet at heart </h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952iggoh6azbar87atiriqmatn85p5ufar1grqh9uad&ep=v1_gifs_search&rid=giphy.gif&ct=g">
@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/karthik_aru_" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p>
 
-- 🔭 I’m currently working on **RealTime Streaming application**
+- 🔭 I’m currently working on **Computer Vision, NLP, IOT, Generative AI**
 
-- 🌱 I’m currently working as a **MLE**
+- 🌱 I’m currently working as a **Machine Learning Engineer**
 
-- 💬 Ask me about **AI, ML & IOT**
+- 💬 We can chat about **AI, ML & IOT**
 
 - 📫 How to reach me **karthik131100@gmail.com**
 
