@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KarthikArumugam3&label=Profile%20views&color=0e75b6&style=flat" alt="KarthikArumugam3" /> </p>
 
-- 🔭 I’m currently working on **Computer Vision, NLP, IOT, Generative AI**
+- 🔭 I have technical expertise and interest in **Computer Vision, NLP, IOT, Generative AI**
 
 - 🌱 I’m currently working as a **Machine Learning Engineer**
 
