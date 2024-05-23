@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/karthik_aru_" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p>
 
-- 🔭 I’m currently working on **RealTime Streaming applic**
+- 🔭 I’m currently working on **RealTime Streaming application**
 
 - 🌱 I’m currently working as a **MLE**
 
 - 💬 Ask me about **AI, ML & IOT**
 
-- 📫 How to reach me **karthik1311@gmail.com**
+- 📫 How to reach me **karthik131100@gmail.com**
 
 - ⚡ Fun fact **I am a singer too**
 
