@@ -31,7 +31,9 @@
  <a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_kinesis/amazon_kinesis-icon.svg" alt="awskinesis" width="40" height="40"/> </a>
  <a href="https://azure.microsoft.com/en-in" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="microsoftazure" width="40" height="40"/> </a>
  <a href="https://www.elastic.co/guide/en/elasticsearch/reference/current/getting-started.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a>
- <a href="https://ubuntu.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="elasticsearch" width="40" height="40"/> </a>
+ <a href="https://ubuntu.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40" height="40"/> </a>
+ <a href="https://flask.palletsprojects.com/en/3.0.x/quickstart/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
+ <a href="https://jupyter.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/> </a>
  </p>
 
 <br>
