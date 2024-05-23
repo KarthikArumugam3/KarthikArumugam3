@@ -2,7 +2,6 @@
 
 ![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 
-<h3 align="center">Data Scientist and poet at heart  </h3>
 <img align="right" alt="Coding" width="400" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/782a31820713734697b27c73941afc9f-1673097196/Jo-Normal-PNG_small01/animate-your-photos-painting-or-artworks-to-a-video.gif">
 
 
@@ -16,7 +15,7 @@
 
 - 📫 How to reach me **karthik131100@gmail.com**
 
-- ⚡ Fun fact **I am a singer too**
+- ⚡ Fun fact **I am a poet & singer too**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
