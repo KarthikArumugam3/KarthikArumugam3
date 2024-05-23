@@ -7,15 +7,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KarthikArumugam3&label=Profile%20views&color=0e75b6&style=flat" alt="KarthikArumugam3" /> </p>
 
-- 🔭 I have technical expertise and interest in **Computer Vision, NLP, IOT, Generative AI**
+- 🔭 I have technical expertise and interests in **Computer Vision, NLP, IoT & Generative AI.**
 
-- 🌱 I’m currently working as a **Machine Learning Engineer**
+- 🌱 I’m currently working as a **Machine Learning Engineer**.
 
-- 💬 We can chat about **AI, ML & IOT**
+- 💬 We can chat about **AI, ML & IOT**.
 
 - 📫 How to reach me **karthik131100@gmail.com**
 
-- ⚡ Fun fact **I am a poet & singer too**
+- ⚡ Fun fact **I am a poet & singer too**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
