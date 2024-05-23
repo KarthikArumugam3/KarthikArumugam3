@@ -35,6 +35,7 @@
  <a href="https://flask.palletsprojects.com/en/3.0.x/quickstart/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
  <a href="https://jupyter.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/> </a>
  <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
+ <a href="https://openai.com/" target="_blank"> <img src="https://commons.wikimedia.org/wiki/File:OpenAI_Logo.svg" alt="openai" width="40" height="40"/> </a>
  </p>
 
 <br>
