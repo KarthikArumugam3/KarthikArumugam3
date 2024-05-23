@@ -3,7 +3,7 @@
 ![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 
 <h3 align="center">Data Scientist and poet at heart  </h3>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952iggoh6azbar87atiriqmatn85p5ufar1grqh9uad&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="400" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/782a31820713734697b27c73941afc9f-1673097196/Jo-Normal-PNG_small01/animate-your-photos-painting-or-artworks-to-a-video.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KarthikArumugam3&label=Profile%20views&color=0e75b6&style=flat" alt="KarthikArumugam3" /> </p>
